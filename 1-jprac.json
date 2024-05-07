@@ -1,0 +1,87 @@
+[
+    {
+        "Name": "John",
+        "Age": 30.88,
+        "City": "New York"
+    },
+    {
+        "Name": "Alice",
+        "Age": 25,
+        "City": "Los Angeles"
+    },
+    {
+        "Name": "Bob",
+        "Age": 35,
+        "City": "Chicago"
+    },
+    {
+        "Name": "Emily",
+        "Age": 28.66,
+        "City": "San Francisco"
+    },
+    {
+        "Name": "Michael",
+        "Age": 40,
+        "City": "Boston"
+    },
+    {
+        "Name": "Sophia",
+        "Age": 22,
+        "City": "Seattle"
+    },
+    {
+        "Name": "William",
+        "Age": 33,
+        "City": "Austin"
+    },
+    {
+        "Name": "Olivia",
+        "Age": 29,
+        "City": "Denver"
+    },
+    {
+        "Name": "James",
+        "Age": 27,
+        "City": "Philadelphia"
+    },
+    {
+        "Name": "Emma",
+        "Age": 31,
+        "City": "Phoenix"
+    },
+    {
+        "Name": "Alexander",
+        "Age": 26,
+        "City": "San Diego"
+    },
+    {
+        "Name": "Ava",
+        "Age": 34.73,
+        "City": "Portland"
+    },
+    {
+        "Name": "Daniel",
+        "Age": 32,
+        "City": "Houston"
+    },
+    {
+        "Name": "Mia",
+        "Age": 24.66,
+        "City": "Dallas"
+    },
+    {
+        "Name": "Liam",
+        "Age": 29,
+        "City": "Miami"
+    },
+	 {
+        "Name": "Mia",
+        "Age": 24.66,
+        "City": "Dallas"
+    },
+	{
+        "Name": "Michael",
+        "Age": 40,
+        "City": "Boston"
+    }
+]

@@ -1,0 +1,7 @@
+{
+ "Product":["Apple Juice","Banana Smothie","Orange Jam","Grape Jelly","Kiwi","Mango Chutney","Pineapple Sorbet","Stawberry Yoghurt","Blueberry Pie","Cherry Salsa"],
+ "Category":["Apple","Banana","Orange","Grape","Kiwi","Mango","Pineapple","Strawberry","Blueberry","Cherry"],
+ "Sales":[1200,1700,2200,1400,2000,1000,1500,1800,1300,1600],
+ "Cost":[600,850,1100,700,1000,500,750,900,650,800],
+ "Profit":[600,850,1100,700,1000,500,750,900,650,800]
+}
