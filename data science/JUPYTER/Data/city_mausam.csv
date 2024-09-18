@@ -1,0 +1,10 @@
+day,temperature,windspeed,event,Humidity,city
+20/3/2024,46,57,Sunny,54,vasai
+21/3/2024,36,54,Rain,53,nsp
+22/3/2024,43,74,Snow,34,vasai
+23/3/2024,46,57,Sunny,34,virar
+24/3/2024,36,54,Rain,53,vasai
+25/3/2024,43,74,Cloudy,57,nsp
+25/3/2024,56,67,Cloudy,47,virar
+26/3/2024,65,45,Rain,53,nsp
+27/3/2024,23,32,Snow,31,virar
